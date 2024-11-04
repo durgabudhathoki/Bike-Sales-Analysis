@@ -16,4 +16,4 @@ The dashboard is built using **Excel**, and it utilizes a dataset containing cus
 - Middle-aged customers make up the largest share of bike purchasers.
 - Customers commuting between 2-10 miles are more likely to buy bikes than those with very short or very long commutes.
 
-
+Bike sales Dashboard.png
